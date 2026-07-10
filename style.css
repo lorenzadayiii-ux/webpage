@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: navy;
+  background: rgb(117, 0, 128);
   color: white;
   padding: 15px 30px;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .nav-links a {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   margin: 0 10px;
 }
