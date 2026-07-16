@@ -19,7 +19,7 @@ body {
 }
 
 .nav-links a {
-  color: rgb(162, 21, 205);
+  color: rgb(20, 207, 26);
   text-decoration: none;
   margin: 0 10px;
 }
@@ -44,7 +44,7 @@ button:hover {
 .hero {
   text-align: center;
   padding: 80px 20px;
-  background: lightblue;
+  background: rgb(173, 230, 204);
 }
 
 .section {
@@ -136,12 +136,12 @@ button:hover {
 }
 
 .card h2 {
-    color: #2c3e50;
+    color: black;
     margin-bottom: 15px;
 }
 
 .card p {
-    color: #555;
+    color: #dba614;
     line-height: 1.5;
 }.resume-section {
     text-align: center;
@@ -164,3 +164,4 @@ button:hover {
     background: #3498db;
     transform: scale(1.1);
     box-shadow: 0 0 20px rgba(52, 152, 219, 0.6);
+}
